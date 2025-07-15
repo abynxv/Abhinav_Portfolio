@@ -141,4 +141,4 @@ For questions or feedback, reach out via:
 
 ---
 
-Built with ❤️ by Abhinav - Python Backend Developer
+Built by Abhinav - Python Backend Developer
