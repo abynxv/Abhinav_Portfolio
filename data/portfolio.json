@@ -1,0 +1,95 @@
+{
+  "developer": {
+    "name": "Abhinav P K",
+    "title": "Python Backend Developer",
+    "location": "India",
+    "email": "abhinav.pk@hotmail.com",
+    "github": "https://github.com/abynxv",
+    "linkedin": "https://linkedin.com/in/abhinavpk",
+    "bio": "Python Developer specializing in Back-end Development with expertise in Python, Django, and Django REST Framework. Successfully transitioned to development through self-study and professional training, showcasing adaptability and a commitment to growth in collaborative development environments. Currently expanding my skill set in AI and Large Language Models (LLMs), including hands-on experience with prompt engineering and integrating AI capabilities into real-world applications.",
+    "experience": "3+ years",
+    "availability": "Open to opportunities"
+  },
+  "skills": {
+    "languages": ["Python", "JavaScript", "TypeScript", "SQL", "Bash"],
+    "frameworks": ["Django", "Django REST Framework", "FastAPI", "Flask", "Celery"],
+    "databases": ["PostgreSQL", "Redis", "MongoDB", "SQLite"],
+    "tools": ["Docker", "Git", "Postman", "VS Code", "Linux"],
+    "devops": ["AWS", "Docker", "Nginx", "CI/CD", "Kubernetes"],
+    "ai_ml": ["OpenAI API", "LangChain", "Hugging Face", "TensorFlow", "Pandas"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Chat API",
+      "description": "Real-time chat application with AI integration using WebSockets and OpenAI API",
+      "tech_stack": ["FastAPI", "WebSockets", "Redis", "OpenAI", "PostgreSQL"],
+      "github": "https://github.com/abhinav/ai-chat-api",
+      "demo": "https://ai-chat-demo.com",
+      "features": ["Real-time messaging", "AI responses", "User authentication", "Message history"],
+      "status": "production"
+    },
+    {
+      "id": 2,
+      "title": "E-commerce Backend",
+      "description": "Scalable e-commerce API with payment integration and inventory management",
+      "tech_stack": ["Django", "DRF", "PostgreSQL", "Redis", "Stripe API"],
+      "github": "https://github.com/abhinav/ecommerce-backend",
+      "demo": null,
+      "features": ["Payment processing", "Inventory management", "Order tracking", "Admin dashboard"],
+      "status": "production"
+    },
+    {
+      "id": 3,
+      "title": "Task Queue System",
+      "description": "Distributed task processing system with monitoring and retry mechanisms",
+      "tech_stack": ["Python", "Celery", "Redis", "RabbitMQ", "Docker"],
+      "github": "https://github.com/abhinav/task-queue",
+      "demo": "https://task-queue-demo.com",
+      "features": ["Distributed processing", "Task monitoring", "Retry logic", "Scalable workers"],
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "title": "Data Pipeline API",
+      "description": "ETL pipeline for processing large datasets with batch and real-time processing",
+      "tech_stack": ["FastAPI", "Apache Kafka", "PostgreSQL", "Docker", "Pandas"],
+      "github": "https://github.com/abhinav/data-pipeline",
+      "demo": null,
+      "features": ["Batch processing", "Real-time streams", "Data validation", "Monitoring"],
+      "status": "maintenance"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Building Scalable APIs with FastAPI",
+      "excerpt": "Learn how to build high-performance APIs using FastAPI with proper architecture patterns",
+      "date": "2024-01-15",
+      "tags": ["FastAPI", "Python", "API Design"],
+      "url": "/blog/fastapi-scalable-apis"
+    },
+    {
+      "id": 2,
+      "title": "WebSocket Implementation in Django",
+      "excerpt": "Complete guide to implementing real-time features using Django Channels",
+      "date": "2024-01-08",
+      "tags": ["Django", "WebSockets", "Real-time"],
+      "url": "/blog/django-websockets"
+    },
+    {
+      "id": 3,
+      "title": "Redis Optimization Strategies",
+      "excerpt": "Performance tuning and optimization techniques for Redis in production",
+      "date": "2024-01-01",
+      "tags": ["Redis", "Performance", "Optimization"],
+      "url": "/blog/redis-optimization"
+    }
+  ],
+  "contact": {
+    "email": "abhinav.pk@hotmail.com",
+    "github": "https://github.com/abynxv",
+    "linkedin": "https://linkedin.com/in/abhinavpk",
+    "twitter": "https://twitter.com/abhinav_dev"
+  }
+}
